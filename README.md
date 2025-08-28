@@ -1,7 +1,7 @@
 ## 🚀 About Me
 - **Full Stack Web Developer** specializing in the .NET Framework
 - Experience with **machine learning** and **data analytics**
-- Creator of [AI Mock Interviewer](https://github.com/Aalok1211/ai-mock-interviewer), an AI-driven tool for interview practice
+- Creator of [AI Mock Interviewer](https://ai-mock-interviewer-1.streamlit.app/), an AI-driven tool for interview practice
 
 ## 🛠️ Skills
 - **Languages & Frameworks:** C#, .NET, JavaScript, HTML/CSS, SQL
@@ -17,4 +17,4 @@
 
 ---
 
-*Passionate about building smarter solutions and always open to collaboration!*
+<div align="center">*Passionate about building smarter solutions and always open to collaboration!*</div>  
