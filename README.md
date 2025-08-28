@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Aalok Kumar
 
-<!--
-**Aalok1211/Aalok1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- **Full Stack Web Developer** specializing in the .NET Framework
+- Experience with **machine learning** and **data analytics**
+- Creator of [AI Mock Interviewer](https://github.com/Aalok1211/ai-mock-interviewer), an AI-driven tool for interview practice
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages & Frameworks:** C#, .NET, JavaScript, HTML/CSS, SQL
+- **Tools & Technologies:** ASP.NET, ADO.NET, Entity Framework, REST APIs, Git, Power BI 
+- **AI & Data:** Python, Pandas, Numpy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Football, chess, fitness, and strength training
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/aalok-kumar-82754a14b/)
+- [Email](mailto:aalok2kamboj@gmail.com)
+
+---
+
+*Passionate about building smarter solutions and always open to collaboration!*
