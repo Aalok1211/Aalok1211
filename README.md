@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Aalok Kumar
-
 ## 🚀 About Me
 - **Full Stack Web Developer** specializing in the .NET Framework
 - Experience with **machine learning** and **data analytics**
